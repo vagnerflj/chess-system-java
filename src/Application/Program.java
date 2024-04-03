@@ -8,7 +8,6 @@ import chess.ChessException;
 import chess.ChessMatch;
 import chess.ChessPiece;
 import chess.ChessPosition;
-b
 public class Program {
 
     public static void main(String[] args) {
